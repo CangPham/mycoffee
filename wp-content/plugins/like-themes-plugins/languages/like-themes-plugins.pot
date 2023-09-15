@@ -1,0 +1,1741 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-09-17 21:43+0300\n"
+"PO-Revision-Date: 2017-06-19 17:54+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.12\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/functions.php:319
+msgid "Search"
+msgstr ""
+
+#: inc/functions.php:331 inc/functions.php:381
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/functions.php:357
+msgid "Logout"
+msgstr ""
+
+#: post_types/events/events.php:6 post_types/events/events.php:7
+#: post_types/events/events.php:8 post_types/events/events.php:9
+msgid "Events"
+msgstr ""
+
+#: post_types/events/events.php:10 post_types/faq/faq.php:11
+#: post_types/gallery/gallery.php:10 post_types/menu/menu.php:11
+#: post_types/sections/sections.php:10 post_types/sliders/sliders.php:10
+#: post_types/team/team.php:10 post_types/testimonials/testimonials.php:11
+msgid "Add New"
+msgstr ""
+
+#: post_types/events/events.php:11
+msgid "Add New Events"
+msgstr ""
+
+#: post_types/events/events.php:12
+msgid "New Events"
+msgstr ""
+
+#: post_types/events/events.php:13
+msgid "Edit Events"
+msgstr ""
+
+#: post_types/events/events.php:14
+msgid "View Events"
+msgstr ""
+
+#: post_types/events/events.php:15
+msgid "All Events"
+msgstr ""
+
+#: post_types/events/events.php:16
+msgid "Search Events"
+msgstr ""
+
+#: post_types/events/events.php:17
+msgid "Parent Events:"
+msgstr ""
+
+#: post_types/events/events.php:18 post_types/faq/faq.php:19
+#: post_types/gallery/gallery.php:18 post_types/menu/menu.php:19
+#: post_types/sections/sections.php:18 post_types/sliders/sliders.php:18
+#: post_types/team/team.php:18 post_types/testimonials/testimonials.php:19
+msgid "No items found."
+msgstr ""
+
+#: post_types/events/events.php:19 post_types/faq/faq.php:20
+#: post_types/gallery/gallery.php:19 post_types/menu/menu.php:20
+#: post_types/sections/sections.php:19 post_types/sliders/sliders.php:19
+#: post_types/team/team.php:19 post_types/testimonials/testimonials.php:20
+msgid "No items found in Trash."
+msgstr ""
+
+#: post_types/faq/faq.php:7 post_types/faq/faq.php:8 post_types/faq/faq.php:9
+#: post_types/faq/faq.php:10
+msgid "Faq"
+msgstr ""
+
+#: post_types/faq/faq.php:12
+msgid "Add New Faq"
+msgstr ""
+
+#: post_types/faq/faq.php:13
+msgid "New Faq"
+msgstr ""
+
+#: post_types/faq/faq.php:14
+msgid "Edit Faq"
+msgstr ""
+
+#: post_types/faq/faq.php:15
+msgid "View Faq"
+msgstr ""
+
+#: post_types/faq/faq.php:16
+msgid "All Faq"
+msgstr ""
+
+#: post_types/faq/faq.php:17
+msgid "Search Faq"
+msgstr ""
+
+#: post_types/faq/faq.php:18
+msgid "Parent Faq:"
+msgstr ""
+
+#: post_types/gallery/gallery.php:6 post_types/gallery/gallery.php:7
+#: post_types/gallery/gallery.php:8 post_types/gallery/gallery.php:9
+msgid "Gallery"
+msgstr ""
+
+#: post_types/gallery/gallery.php:11
+msgid "Add New Gallery"
+msgstr ""
+
+#: post_types/gallery/gallery.php:12
+msgid "New Gallery"
+msgstr ""
+
+#: post_types/gallery/gallery.php:13
+msgid "Edit Gallery"
+msgstr ""
+
+#: post_types/gallery/gallery.php:14
+msgid "View Gallery"
+msgstr ""
+
+#: post_types/gallery/gallery.php:15
+msgid "All Gallery"
+msgstr ""
+
+#: post_types/gallery/gallery.php:16
+msgid "Search Gallery"
+msgstr ""
+
+#: post_types/gallery/gallery.php:17
+msgid "Parent Gallery:"
+msgstr ""
+
+#: post_types/menu/menu.php:7 post_types/menu/menu.php:8
+#: post_types/menu/menu.php:9 post_types/menu/menu.php:10
+#: shortcodes/menu/menu.php:66
+msgid "Menu"
+msgstr ""
+
+#: post_types/menu/menu.php:12
+msgid "Add New Menu"
+msgstr ""
+
+#: post_types/menu/menu.php:13
+msgid "New Menu"
+msgstr ""
+
+#: post_types/menu/menu.php:14
+msgid "Edit Menu"
+msgstr ""
+
+#: post_types/menu/menu.php:15
+msgid "View Menu"
+msgstr ""
+
+#: post_types/menu/menu.php:16
+msgid "All Menu"
+msgstr ""
+
+#: post_types/menu/menu.php:17
+msgid "Search Menu"
+msgstr ""
+
+#: post_types/menu/menu.php:18
+msgid "Parent Menu:"
+msgstr ""
+
+#: post_types/sections/sections.php:6 post_types/sections/sections.php:8
+#: post_types/sections/sections.php:9
+msgid "Sections"
+msgstr ""
+
+#: post_types/sections/sections.php:7
+msgid "Section"
+msgstr ""
+
+#: post_types/sections/sections.php:11
+msgid "Add New Section"
+msgstr ""
+
+#: post_types/sections/sections.php:12
+msgid "New Section"
+msgstr ""
+
+#: post_types/sections/sections.php:13
+msgid "Edit Section"
+msgstr ""
+
+#: post_types/sections/sections.php:14
+msgid "View Section"
+msgstr ""
+
+#: post_types/sections/sections.php:15
+msgid "All Section"
+msgstr ""
+
+#: post_types/sections/sections.php:16
+msgid "Search Section"
+msgstr ""
+
+#: post_types/sections/sections.php:17
+msgid "Parent Section:"
+msgstr ""
+
+#: post_types/sliders/sliders.php:6 post_types/sliders/sliders.php:7
+#: post_types/sliders/sliders.php:8 post_types/sliders/sliders.php:9
+msgid "Sliders"
+msgstr ""
+
+#: post_types/sliders/sliders.php:11
+msgid "Add New Sliders"
+msgstr ""
+
+#: post_types/sliders/sliders.php:12
+msgid "New Sliders"
+msgstr ""
+
+#: post_types/sliders/sliders.php:13
+msgid "Edit Sliders"
+msgstr ""
+
+#: post_types/sliders/sliders.php:14
+msgid "View Sliders"
+msgstr ""
+
+#: post_types/sliders/sliders.php:15
+msgid "All Sliders"
+msgstr ""
+
+#: post_types/sliders/sliders.php:16
+msgid "Search Sliders"
+msgstr ""
+
+#: post_types/sliders/sliders.php:17
+msgid "Parent Sliders:"
+msgstr ""
+
+#: post_types/team/team.php:6 post_types/team/team.php:7
+#: post_types/team/team.php:8 post_types/team/team.php:9
+msgid "Team"
+msgstr ""
+
+#: post_types/team/team.php:11
+msgid "Add New Team"
+msgstr ""
+
+#: post_types/team/team.php:12
+msgid "New Team"
+msgstr ""
+
+#: post_types/team/team.php:13
+msgid "Edit Team"
+msgstr ""
+
+#: post_types/team/team.php:14
+msgid "View Team"
+msgstr ""
+
+#: post_types/team/team.php:15
+msgid "All Team"
+msgstr ""
+
+#: post_types/team/team.php:16
+msgid "Search Team"
+msgstr ""
+
+#: post_types/team/team.php:17
+msgid "Parent Team:"
+msgstr ""
+
+#: post_types/testimonials/testimonials.php:7
+#: post_types/testimonials/testimonials.php:9
+#: shortcodes/testimonials/testimonials.php:145
+msgid "Testimonials"
+msgstr ""
+
+#: post_types/testimonials/testimonials.php:8
+#: post_types/testimonials/testimonials.php:10
+msgid "Testimonial"
+msgstr ""
+
+#: post_types/testimonials/testimonials.php:12
+msgid "Add New Testimonial"
+msgstr ""
+
+#: post_types/testimonials/testimonials.php:13
+msgid "New Testimonial"
+msgstr ""
+
+#: post_types/testimonials/testimonials.php:14
+msgid "Edit Testimonial"
+msgstr ""
+
+#: post_types/testimonials/testimonials.php:15
+msgid "View Testimonial"
+msgstr ""
+
+#: post_types/testimonials/testimonials.php:16
+msgid "All Testimonials"
+msgstr ""
+
+#: post_types/testimonials/testimonials.php:17
+msgid "Search Testimonials"
+msgstr ""
+
+#: post_types/testimonials/testimonials.php:18
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: shortcodes/alert/alert.php:15
+msgid "Type"
+msgstr ""
+
+#: shortcodes/alert/alert.php:19
+msgid "Error"
+msgstr ""
+
+#: shortcodes/alert/alert.php:20
+msgid "Success"
+msgstr ""
+
+#: shortcodes/alert/alert.php:21
+msgid "Important"
+msgstr ""
+
+#: shortcodes/alert/alert.php:22
+msgid "Warning"
+msgstr ""
+
+#: shortcodes/alert/alert.php:28 shortcodes/block-icon/block-icon.php:137
+#: shortcodes/header/header.php:162 shortcodes/header/header.php:174
+#: shortcodes/header/header.php:181
+#: shortcodes/social-icons/social-icons.php:103
+msgid "Icon"
+msgstr ""
+
+#: shortcodes/alert/alert.php:41 shortcodes/block-icon/block-icon.php:106
+#: shortcodes/button/button.php:15 shortcodes/countup/countup.php:38
+#: shortcodes/header/header.php:40 shortcodes/header/header.php:292
+#: shortcodes/image-header/image-header.php:38
+#: shortcodes/social-icons/social-icons.php:80 shortcodes/tariff/tariff.php:32
+msgid "Header"
+msgstr ""
+
+#: shortcodes/alert/alert.php:47 shortcodes/block-icon/block-icon.php:112
+#: shortcodes/countup/countup.php:44 shortcodes/tariff/tariff.php:38
+msgid "Description"
+msgstr ""
+
+#: shortcodes/alert/alert.php:87
+msgid "Alert"
+msgstr ""
+
+#: shortcodes/alert/alert.php:88
+msgid "Alert Block"
+msgstr ""
+
+#: shortcodes/alert/alert.php:92 shortcodes/block-icon/block-icon.php:213
+#: shortcodes/blog/blog.php:86 shortcodes/button/button.php:183
+#: shortcodes/contact_form_7/contact_form_7.php:151
+#: shortcodes/countup/countup.php:98 shortcodes/empty_space/empty_space.php:76
+#: shortcodes/google_maps/google_maps.php:99 shortcodes/header/header.php:297
+#: shortcodes/image-header/image-header.php:113 shortcodes/menu/menu.php:71
+#: shortcodes/products/products.php:93 shortcodes/services/services.php:86
+#: shortcodes/sliders/sliders.php:138
+#: shortcodes/social-icons/social-icons.php:167
+#: shortcodes/tariff/tariff.php:118
+#: shortcodes/testimonials/testimonials.php:150
+#: shortcodes/zoom_slider/zoom_slider.php:166
+msgid "Like-Themes"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:15
+#: shortcodes/social-icons/social-icons.php:15
+msgid "List type"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:18
+msgid "Icon to Left, Header and Text to Right"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:19
+msgid "Icon to Right, Header and Text to Left"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:20
+msgid "Icon to Left, Header Right"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:21
+msgid "Icon to Top"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:28 shortcodes/header/header.php:15
+#: shortcodes/image-header/image-header.php:20
+msgid "Header Type"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:31 shortcodes/header/header.php:18
+#: shortcodes/image-header/image-header.php:23
+msgid "Heading 1"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:32 shortcodes/header/header.php:19
+#: shortcodes/image-header/image-header.php:24
+msgid "Heading 2"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:33 shortcodes/header/header.php:20
+#: shortcodes/image-header/image-header.php:25
+msgid "Heading 3"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:34 shortcodes/header/header.php:21
+#: shortcodes/header/header.php:32 shortcodes/image-header/image-header.php:26
+msgid "Heading 4"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:35 shortcodes/header/header.php:22
+#: shortcodes/header/header.php:33 shortcodes/image-header/image-header.php:27
+msgid "Heading 5"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:36 shortcodes/header/header.php:23
+#: shortcodes/header/header.php:34 shortcodes/image-header/image-header.php:28
+msgid "Heading 6"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:42
+msgid "Background Type"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:45
+#: shortcodes/block-icon/block-icon.php:59
+#: shortcodes/contact_form_7/contact_form_7.php:72
+#: shortcodes/shortcodes.php:106 shortcodes/social-icons/social-icons.php:29
+msgid "Transparent"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:46
+#: shortcodes/social-icons/social-icons.php:30
+msgid "Square"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:47
+msgid "Circle"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:53 shortcodes/sliders/sliders.php:79
+msgid "Background"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:56 shortcodes/header/header.php:58
+#: shortcodes/header/header.php:74
+msgid "Main Color"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:57 shortcodes/header/header.php:59
+#: shortcodes/header/header.php:75
+msgid "Second Color"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:58 shortcodes/header/header.php:62
+#: shortcodes/header/header.php:78
+msgid "Gray"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:66
+#: shortcodes/image-header/image-header.php:63
+#: shortcodes/products/products.php:21 shortcodes/tariff/tariff.php:15
+msgid "Layout"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:69
+msgid "Six Columns"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:70
+msgid "Four Columns"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:71
+msgid "Three Columns"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:72
+msgid "One Column"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:73 shortcodes/header/header.php:104
+msgid "Inline"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:79 shortcodes/button/button.php:38
+#: shortcodes/header/header.php:131
+msgid "Alignment"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:80 shortcodes/button/button.php:39
+msgid "Horizontal Aligment"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:83 shortcodes/button/button.php:43
+#: shortcodes/header/header.php:136 shortcodes/social-icons/social-icons.php:59
+#: shortcodes/zoom_slider/zoom_slider.php:90
+msgid "Left"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:84 shortcodes/button/button.php:44
+#: shortcodes/header/header.php:137 shortcodes/shortcodes.php:170
+#: shortcodes/social-icons/social-icons.php:60
+#: shortcodes/zoom_slider/zoom_slider.php:89
+msgid "Center"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:85 shortcodes/button/button.php:45
+#: shortcodes/header/header.php:138 shortcodes/shortcodes.php:171
+#: shortcodes/zoom_slider/zoom_slider.php:70
+#: shortcodes/zoom_slider/zoom_slider.php:91
+msgid "Right"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:93
+#: shortcodes/social-icons/social-icons.php:67
+msgid "Icons"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:131
+#: shortcodes/image-header/image-header.php:48
+#: shortcodes/social-icons/social-icons.php:97
+msgid "Href"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:133
+#: shortcodes/social-icons/social-icons.php:99
+msgid "URL to list item"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:150
+msgid "Or Icon Image"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:155
+msgid "Or Icon Text"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:157
+msgid "Text Header as Icon"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:208
+msgid "Block with Icons"
+msgstr ""
+
+#: shortcodes/block-icon/block-icon.php:209
+msgid "Text Blocks with Icons"
+msgstr ""
+
+#: shortcodes/blog/blog.php:21
+msgid "Filter IDs"
+msgstr ""
+
+#: shortcodes/blog/blog.php:28 shortcodes/menu/menu.php:23
+#: shortcodes/testimonials/testimonials.php:22
+msgid "Category"
+msgstr ""
+
+#: shortcodes/blog/blog.php:29 shortcodes/menu/menu.php:24
+#: shortcodes/testimonials/testimonials.php:23
+msgid "--"
+msgstr ""
+
+#: shortcodes/blog/blog.php:34
+msgid "Custom Except Size"
+msgstr ""
+
+#: shortcodes/blog/blog.php:36
+msgid "By default used global setting"
+msgstr ""
+
+#: shortcodes/blog/blog.php:81
+msgid "Blog"
+msgstr ""
+
+#: shortcodes/blog/blog.php:82
+msgid "Blog posts slider"
+msgstr ""
+
+#: shortcodes/button/button.php:21
+msgid "URL"
+msgstr ""
+
+#: shortcodes/button/button.php:26
+msgid "Size"
+msgstr ""
+
+#: shortcodes/button/button.php:29 shortcodes/button/button.php:42
+#: shortcodes/button/button.php:70 shortcodes/button/button.php:81
+#: shortcodes/button/button.php:94 shortcodes/button/button.php:118
+#: shortcodes/contact_form_7/contact_form_7.php:61
+#: shortcodes/contact_form_7/contact_form_7.php:71
+#: shortcodes/contact_form_7/contact_form_7.php:80
+#: shortcodes/contact_form_7/contact_form_7.php:101
+#: shortcodes/countup/countup.php:18 shortcodes/google_maps/google_maps.php:19
+#: shortcodes/header/header.php:57 shortcodes/header/header.php:73
+#: shortcodes/header/header.php:88 shortcodes/header/header.php:102
+#: shortcodes/header/header.php:123 shortcodes/header/header.php:135
+#: shortcodes/shortcodes.php:134 shortcodes/shortcodes.php:169
+#: shortcodes/social-icons/social-icons.php:49
+#: shortcodes/social-icons/social-icons.php:89 shortcodes/tariff/tariff.php:18
+#: shortcodes/zoom_slider/zoom_slider.php:30
+msgid "Default"
+msgstr ""
+
+#: shortcodes/button/button.php:30 shortcodes/social-icons/social-icons.php:90
+msgid "Large"
+msgstr ""
+
+#: shortcodes/button/button.php:31 shortcodes/social-icons/social-icons.php:50
+msgid "Small"
+msgstr ""
+
+#: shortcodes/button/button.php:32
+msgid "Extra Small"
+msgstr ""
+
+#: shortcodes/button/button.php:51
+msgid "Color style"
+msgstr ""
+
+#: shortcodes/button/button.php:54
+msgid "Main Color Filled"
+msgstr ""
+
+#: shortcodes/button/button.php:55
+msgid "Main Color Bordered"
+msgstr ""
+
+#: shortcodes/button/button.php:56
+msgid "Secondary Color Filled"
+msgstr ""
+
+#: shortcodes/button/button.php:57
+msgid "Secondary Color Bordered"
+msgstr ""
+
+#: shortcodes/button/button.php:58
+msgid "White color Filled"
+msgstr ""
+
+#: shortcodes/button/button.php:59
+msgid "White color Bordered"
+msgstr ""
+
+#: shortcodes/button/button.php:60
+msgid "Black color Filled"
+msgstr ""
+
+#: shortcodes/button/button.php:61
+msgid "Black color Bordered"
+msgstr ""
+
+#: shortcodes/button/button.php:67
+msgid "Text Color"
+msgstr ""
+
+#: shortcodes/button/button.php:71 shortcodes/button/button.php:84
+#: shortcodes/header/header.php:60 shortcodes/header/header.php:76
+#: shortcodes/zoom_slider/zoom_slider.php:79
+msgid "White"
+msgstr ""
+
+#: shortcodes/button/button.php:72 shortcodes/button/button.php:85
+#: shortcodes/header/header.php:61 shortcodes/header/header.php:77
+#: shortcodes/zoom_slider/zoom_slider.php:80
+msgid "Black"
+msgstr ""
+
+#: shortcodes/button/button.php:78
+msgid "Hover Background Color"
+msgstr ""
+
+#: shortcodes/button/button.php:82
+msgid "Main"
+msgstr ""
+
+#: shortcodes/button/button.php:83
+msgid "Second"
+msgstr ""
+
+#: shortcodes/button/button.php:91 shortcodes/button/button.php:95
+#: shortcodes/contact_form_7/contact_form_7.php:81
+msgid "Wide"
+msgstr ""
+
+#: shortcodes/button/button.php:101 shortcodes/header/header.php:106
+#: shortcodes/shortcodes.php:226
+msgid "Shadow"
+msgstr ""
+
+#: shortcodes/button/button.php:104
+#: shortcodes/contact_form_7/contact_form_7.php:90
+#: shortcodes/shortcodes.php:182 shortcodes/shortcodes.php:257
+#: shortcodes/sliders/sliders.php:44 shortcodes/sliders/sliders.php:54
+#: shortcodes/zoom_slider/zoom_slider.php:102
+msgid "Disabled"
+msgstr ""
+
+#: shortcodes/button/button.php:105
+msgid "Blured"
+msgstr ""
+
+#: shortcodes/button/button.php:106
+msgid "Plain white"
+msgstr ""
+
+#: shortcodes/button/button.php:107
+msgid "Plain black"
+msgstr ""
+
+#: shortcodes/button/button.php:114
+#: shortcodes/contact_form_7/contact_form_7.php:97
+msgid "Text transform"
+msgstr ""
+
+#: shortcodes/button/button.php:119
+#: shortcodes/contact_form_7/contact_form_7.php:102
+msgid "Uppercase"
+msgstr ""
+
+#: shortcodes/button/button.php:120
+#: shortcodes/contact_form_7/contact_form_7.php:103
+msgid "Lowercase"
+msgstr ""
+
+#: shortcodes/button/button.php:127
+msgid "Position"
+msgstr ""
+
+#: shortcodes/button/button.php:131
+msgid "One in row"
+msgstr ""
+
+#: shortcodes/button/button.php:132
+msgid "Inline buttons"
+msgstr ""
+
+#: shortcodes/button/button.php:178
+msgid "Button"
+msgstr ""
+
+#: shortcodes/button/button.php:179
+msgid "Custom Button"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:24
+msgid "No contact forms found"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:31
+msgid "Select contact form"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:35
+msgid "Choose previously created contact form from the drop down list."
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:39
+msgid "Search title"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:42
+msgid "Enter optional title to search if no ID selected or cannot find by ID."
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:46
+msgid "Form Scheme"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:50
+msgid "Default Colors"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:51
+msgid "Secondary Color"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:57
+msgid "Form Padding"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:62
+msgid "No Padding"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:67
+msgid "Form Background"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:77
+msgid "Buttons Wide"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:87
+msgid "Buttons Shadow"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:91
+#: shortcodes/testimonials/testimonials.php:42
+#: shortcodes/testimonials/testimonials.php:52
+#: shortcodes/zoom_slider/zoom_slider.php:44
+msgid "Visible"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:146
+msgid "Contact Form 7 Customized"
+msgstr ""
+
+#: shortcodes/contact_form_7/contact_form_7.php:147
+msgid "Contact Form 7 Customized Block"
+msgstr ""
+
+#: shortcodes/countup/countup.php:15
+msgid "Section Style"
+msgstr ""
+
+#: shortcodes/countup/countup.php:26
+msgid "CountUp Items"
+msgstr ""
+
+#: shortcodes/countup/countup.php:32
+msgid "Number up to"
+msgstr ""
+
+#: shortcodes/countup/countup.php:93
+msgid "CountUp"
+msgstr ""
+
+#: shortcodes/countup/countup.php:94
+msgid "Section with CountUp Numbers"
+msgstr ""
+
+#: shortcodes/empty_space/empty_space.php:15
+msgid "Height Desktop"
+msgstr ""
+
+#: shortcodes/empty_space/empty_space.php:22
+msgid "Height Tablet"
+msgstr ""
+
+#: shortcodes/empty_space/empty_space.php:23
+#: shortcodes/empty_space/empty_space.php:31
+msgid "By default inherit from larger"
+msgstr ""
+
+#: shortcodes/empty_space/empty_space.php:30
+msgid "Height Mobile"
+msgstr ""
+
+#: shortcodes/empty_space/empty_space.php:71
+msgid "Empty Space Responsive"
+msgstr ""
+
+#: shortcodes/empty_space/empty_space.php:72
+msgid "Advanced Empty Space"
+msgstr ""
+
+#: shortcodes/google_maps/google_maps.php:15
+msgid "Style"
+msgstr ""
+
+#: shortcodes/google_maps/google_maps.php:20
+msgid "Yellow"
+msgstr ""
+
+#: shortcodes/google_maps/google_maps.php:26
+msgid "Latitude"
+msgstr ""
+
+#: shortcodes/google_maps/google_maps.php:31
+msgid "Longitude"
+msgstr ""
+
+#: shortcodes/google_maps/google_maps.php:36
+msgid "Zoom"
+msgstr ""
+
+#: shortcodes/google_maps/google_maps.php:41
+msgid "Width"
+msgstr ""
+
+#: shortcodes/google_maps/google_maps.php:46
+msgid "Height"
+msgstr ""
+
+#: shortcodes/google_maps/google_maps.php:94
+msgid "Google Maps Styled"
+msgstr ""
+
+#: shortcodes/google_maps/google_maps.php:95
+msgid "Google_maps"
+msgstr ""
+
+#: shortcodes/google_maps/view.php:14
+msgid "Google Map API Key is Wrong"
+msgstr ""
+
+#: shortcodes/header/header.php:29
+msgid "SubHeader Type"
+msgstr ""
+
+#: shortcodes/header/header.php:46
+msgid "Subheader"
+msgstr ""
+
+#: shortcodes/header/header.php:48
+msgid "Subheader will be shown in different color or on second line"
+msgstr ""
+
+#: shortcodes/header/header.php:53
+msgid "Header Color"
+msgstr ""
+
+#: shortcodes/header/header.php:54 shortcodes/header/header.php:70
+msgid "Heading color can depend on styling."
+msgstr ""
+
+#: shortcodes/header/header.php:63 shortcodes/shortcodes.php:234
+msgid "Gradient"
+msgstr ""
+
+#: shortcodes/header/header.php:69
+msgid "SubHeader Color"
+msgstr ""
+
+#: shortcodes/header/header.php:84
+msgid "Header Size"
+msgstr ""
+
+#: shortcodes/header/header.php:85
+msgid "Larger Heading can be used for transforming H2 into H1 sized tag etc."
+msgstr ""
+
+#: shortcodes/header/header.php:89
+msgid "Smaller"
+msgstr ""
+
+#: shortcodes/header/header.php:90
+msgid "Larger"
+msgstr ""
+
+#: shortcodes/header/header.php:91
+msgid "Extra Larger"
+msgstr ""
+
+#: shortcodes/header/header.php:97
+msgid "Header Special"
+msgstr ""
+
+#: shortcodes/header/header.php:98
+msgid "Special styling"
+msgstr ""
+
+#: shortcodes/header/header.php:103
+msgid "Simple Header"
+msgstr ""
+
+#: shortcodes/header/header.php:105
+msgid "Line on right side"
+msgstr ""
+
+#: shortcodes/header/header.php:113
+msgid "Subheader as inset background"
+msgstr ""
+
+#: shortcodes/header/header.php:119
+msgid "Transform"
+msgstr ""
+
+#: shortcodes/header/header.php:124
+msgid "Header Uppercase"
+msgstr ""
+
+#: shortcodes/header/header.php:125
+msgid "Header and Subheader Uppercase"
+msgstr ""
+
+#: shortcodes/header/header.php:132
+msgid "Horizontal Aligment of Header"
+msgstr ""
+
+#: shortcodes/header/header.php:144
+msgid "Text"
+msgstr ""
+
+#: shortcodes/header/header.php:145
+msgid "Text Under Header"
+msgstr ""
+
+#: shortcodes/header/header.php:151
+msgid "Text as background"
+msgstr ""
+
+#: shortcodes/header/header.php:152
+msgid "Text will be used as watermark background"
+msgstr ""
+
+#: shortcodes/header/header.php:158
+msgid "Icon Fontawesome"
+msgstr ""
+
+#: shortcodes/header/header.php:159
+msgid "Icon will be showed before header or as background"
+msgstr ""
+
+#: shortcodes/header/header.php:173
+msgid "Icon Image"
+msgstr ""
+
+#: shortcodes/header/header.php:179
+msgid "Icon Type"
+msgstr ""
+
+#: shortcodes/header/header.php:183 shortcodes/sliders/sliders.php:34
+#: shortcodes/sliders/sliders.php:90
+#: shortcodes/testimonials/testimonials.php:43
+#: shortcodes/testimonials/testimonials.php:53
+#: shortcodes/zoom_slider/zoom_slider.php:43
+#: shortcodes/zoom_slider/zoom_slider.php:68
+msgid "Hidden"
+msgstr ""
+
+#: shortcodes/header/header.php:184
+msgid "Before Header"
+msgstr ""
+
+#: shortcodes/header/header.php:185
+msgid "After Header"
+msgstr ""
+
+#: shortcodes/header/header.php:186
+msgid "As Background"
+msgstr ""
+
+#: shortcodes/header/header.php:192
+msgid "Custom Size Desktop"
+msgstr ""
+
+#: shortcodes/header/header.php:193 shortcodes/header/header.php:199
+#: shortcodes/header/header.php:209 shortcodes/header/header.php:227
+msgid "Custom"
+msgstr ""
+
+#: shortcodes/header/header.php:198
+msgid "Custom Size Mobile"
+msgstr ""
+
+#: shortcodes/header/header.php:204
+msgid "Yes theme default font family?"
+msgstr ""
+
+#: shortcodes/header/header.php:207
+msgid "Yes"
+msgstr ""
+
+#: shortcodes/header/header.php:208
+msgid "Yes font family from the theme."
+msgstr ""
+
+#: shortcodes/header/header.php:223
+msgid "Select font family."
+msgstr ""
+
+#: shortcodes/header/header.php:224
+msgid "Select font styling."
+msgstr ""
+
+#: shortcodes/header/header.php:293
+msgid "Custom Header"
+msgstr ""
+
+#: shortcodes/image-header/image-header.php:15
+msgid "Background Image"
+msgstr ""
+
+#: shortcodes/image-header/image-header.php:54
+msgid "Block Height"
+msgstr ""
+
+#: shortcodes/image-header/image-header.php:66
+msgid "Background Image with Header"
+msgstr ""
+
+#: shortcodes/image-header/image-header.php:67
+msgid "Background Image with Hover Scroll"
+msgstr ""
+
+#: shortcodes/image-header/image-header.php:68
+msgid "Background Image with Popup Video"
+msgstr ""
+
+#: shortcodes/image-header/image-header.php:108
+msgid "Image Preview Special"
+msgstr ""
+
+#: shortcodes/image-header/image-header.php:109
+msgid "Special Background Image"
+msgstr ""
+
+#: shortcodes/menu/menu.php:29
+msgid "Except size"
+msgstr ""
+
+#: shortcodes/menu/menu.php:67
+msgid "Menu items"
+msgstr ""
+
+#: shortcodes/products/products.php:24
+msgid "Slider with Filter at Top"
+msgstr ""
+
+#: shortcodes/products/products.php:31
+msgid "Total Products in Category"
+msgstr ""
+
+#: shortcodes/products/products.php:38
+msgid "Products per Slide"
+msgstr ""
+
+#: shortcodes/products/products.php:39 shortcodes/services/services.php:32
+msgid "If empty or null - no slider will be active"
+msgstr ""
+
+#: shortcodes/products/products.php:46 shortcodes/sliders/sliders.php:22
+msgid "Categories Filter"
+msgstr ""
+
+#: shortcodes/products/products.php:47 shortcodes/sliders/sliders.php:23
+msgid "All Parent"
+msgstr ""
+
+#: shortcodes/products/products.php:88
+msgid "Products"
+msgstr ""
+
+#: shortcodes/products/products.php:89
+msgid "Products Customized List"
+msgstr ""
+
+#: shortcodes/products/view.php:88
+msgid "Sale"
+msgstr ""
+
+#: shortcodes/products/view.php:175
+msgid "Add to cart"
+msgstr ""
+
+#: shortcodes/products/view.php:178
+msgid "Conditions"
+msgstr ""
+
+#: shortcodes/services/services.php:23
+msgid "Total Services"
+msgstr ""
+
+#: shortcodes/services/services.php:24
+msgid "Number of services to show"
+msgstr ""
+
+#: shortcodes/services/services.php:31
+msgid "Services per Slide"
+msgstr ""
+
+#: shortcodes/services/services.php:39
+msgid "Slider Autoplay, ms"
+msgstr ""
+
+#: shortcodes/services/services.php:40
+msgid "If empty or null - disabled"
+msgstr ""
+
+#: shortcodes/services/services.php:81
+msgid "Services"
+msgstr ""
+
+#: shortcodes/services/services.php:82
+msgid "Services Posts slider"
+msgstr ""
+
+#: shortcodes/services/view.php:58
+msgid "Read more &rarr;"
+msgstr ""
+
+#: shortcodes/services/view.php:62
+msgid "read more"
+msgstr ""
+
+#: shortcodes/shortcodes.php:52
+msgid "Attributes"
+msgstr ""
+
+#: shortcodes/shortcodes.php:58
+msgid "Element ID"
+msgstr ""
+
+#: shortcodes/shortcodes.php:65
+msgid "Extra class name"
+msgstr ""
+
+#: shortcodes/shortcodes.php:72
+msgid "CSS box"
+msgstr ""
+
+#: shortcodes/shortcodes.php:73
+msgid "Design Options"
+msgstr ""
+
+#: shortcodes/shortcodes.php:99
+msgid "Background Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:100
+msgid "Set Background Color from Theme Default Colors"
+msgstr ""
+
+#: shortcodes/shortcodes.php:103 shortcodes/shortcodes.php:117
+#: shortcodes/shortcodes.php:131 shortcodes/shortcodes.php:155
+#: shortcodes/shortcodes.php:167 shortcodes/shortcodes.php:180
+msgid "Settings"
+msgstr ""
+
+#: shortcodes/shortcodes.php:113
+msgid "Background Overlay"
+msgstr ""
+
+#: shortcodes/shortcodes.php:114
+msgid "Background overlay effect"
+msgstr ""
+
+#: shortcodes/shortcodes.php:120 shortcodes/shortcodes.php:157
+#: shortcodes/shortcodes.php:206 shortcodes/shortcodes.php:232
+msgid "None"
+msgstr ""
+
+#: shortcodes/shortcodes.php:127
+msgid "Background Position"
+msgstr ""
+
+#: shortcodes/shortcodes.php:128
+msgid "Background repeat will be disabled"
+msgstr ""
+
+#: shortcodes/shortcodes.php:136
+msgid "Top-left"
+msgstr ""
+
+#: shortcodes/shortcodes.php:137
+msgid "Top-center"
+msgstr ""
+
+#: shortcodes/shortcodes.php:138
+msgid "Top-right"
+msgstr ""
+
+#: shortcodes/shortcodes.php:140
+msgid "Center-left"
+msgstr ""
+
+#: shortcodes/shortcodes.php:141
+msgid "Center-center"
+msgstr ""
+
+#: shortcodes/shortcodes.php:142
+msgid "Center-right"
+msgstr ""
+
+#: shortcodes/shortcodes.php:144
+msgid "Bottom-left"
+msgstr ""
+
+#: shortcodes/shortcodes.php:145
+msgid "Bottom-center"
+msgstr ""
+
+#: shortcodes/shortcodes.php:146
+msgid "Bottom-right"
+msgstr ""
+
+#: shortcodes/shortcodes.php:151
+msgid "Border Box Shadow"
+msgstr ""
+
+#: shortcodes/shortcodes.php:152
+msgid "Section with Shadow border"
+msgstr ""
+
+#: shortcodes/shortcodes.php:158
+msgid "Shadowed"
+msgstr ""
+
+#: shortcodes/shortcodes.php:163
+msgid "Text Align"
+msgstr ""
+
+#: shortcodes/shortcodes.php:164
+msgid "Row Text Align"
+msgstr ""
+
+#: shortcodes/shortcodes.php:176
+msgid "Background Hover Parallax"
+msgstr ""
+
+#: shortcodes/shortcodes.php:177
+msgid "Set strength"
+msgstr ""
+
+#: shortcodes/shortcodes.php:183
+msgid "Static Background"
+msgstr ""
+
+#: shortcodes/shortcodes.php:200
+msgid "Like Theme Section Class"
+msgstr ""
+
+#: shortcodes/shortcodes.php:201 shortcodes/shortcodes.php:227
+msgid "Used to style unique theme blocks"
+msgstr ""
+
+#: shortcodes/shortcodes.php:233
+msgid "Single Gray"
+msgstr ""
+
+#: shortcodes/shortcodes.php:253
+msgid "Animation"
+msgstr ""
+
+#: shortcodes/shortcodes.php:254 shortcodes/shortcodes.php:271
+#: shortcodes/shortcodes.php:285 shortcodes/shortcodes.php:298
+#: shortcodes/shortcodes.php:313
+msgid "ScrollReveal"
+msgstr ""
+
+#: shortcodes/shortcodes.php:258 shortcodes/zoom_slider/zoom_slider.php:19
+msgid "Zoom In"
+msgstr ""
+
+#: shortcodes/shortcodes.php:259
+msgid "Fade In"
+msgstr ""
+
+#: shortcodes/shortcodes.php:260
+msgid "Slide From Left"
+msgstr ""
+
+#: shortcodes/shortcodes.php:261
+msgid "Slide From Right"
+msgstr ""
+
+#: shortcodes/shortcodes.php:262
+msgid "Slide From Top"
+msgstr ""
+
+#: shortcodes/shortcodes.php:263
+msgid "Slide From Bottom"
+msgstr ""
+
+#: shortcodes/shortcodes.php:269
+msgid "Elements"
+msgstr ""
+
+#: shortcodes/shortcodes.php:270
+msgid "Select elemets to animate"
+msgstr ""
+
+#: shortcodes/shortcodes.php:274
+msgid "Single Block"
+msgstr ""
+
+#: shortcodes/shortcodes.php:275
+msgid "Every Article/Item"
+msgstr ""
+
+#: shortcodes/shortcodes.php:276
+msgid "Every Paragraph/Image/Button"
+msgstr ""
+
+#: shortcodes/shortcodes.php:277
+msgid "Every List Element"
+msgstr ""
+
+#: shortcodes/shortcodes.php:283
+msgid "Delay"
+msgstr ""
+
+#: shortcodes/shortcodes.php:284
+msgid "Start Delay"
+msgstr ""
+
+#: shortcodes/shortcodes.php:288
+msgid "No Delay"
+msgstr ""
+
+#: shortcodes/shortcodes.php:289
+msgid "Quick Delay (200ms)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:290
+msgid "Long Delay (500ms)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:296
+msgid "Duration"
+msgstr ""
+
+#: shortcodes/shortcodes.php:297
+msgid "How long one element animation goes"
+msgstr ""
+
+#: shortcodes/shortcodes.php:301
+msgid "Very Fast (150ms)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:302
+msgid "Fast (300ms)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:303
+msgid "Moderate (500ms)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:304
+msgid "Long (800ms)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:305
+msgid "Extra Long (1200ms)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:311
+msgid "Sequences Delay"
+msgstr ""
+
+#: shortcodes/shortcodes.php:312
+msgid "Delay between elements in one section"
+msgstr ""
+
+#: shortcodes/shortcodes.php:316
+msgid "No Delay (all at once)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:317
+msgid "Quick  (100ms)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:318
+msgid "Moderate (200ms)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:319
+msgid "Long  (300ms)"
+msgstr ""
+
+#: shortcodes/shortcodes.php:320
+msgid "Extra Long (500ms)"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:29
+msgid "Featured Image Visibility"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:32 shortcodes/sliders/sliders.php:88
+msgid "Allways Visible"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:33 shortcodes/sliders/sliders.php:89
+msgid "Desktop Only Visible"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:40 shortcodes/zoom_slider/zoom_slider.php:41
+#: shortcodes/zoom_slider/zoom_slider.php:52
+#: shortcodes/zoom_slider/zoom_slider.php:59
+msgid "Arrows"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:43 shortcodes/sliders/sliders.php:53
+msgid "Enabled"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:50
+msgid "Pagination"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:60
+msgid "Effect"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:63
+msgid "Fade"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:64
+msgid "Slide"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:71
+msgid "Autoplay (ms)"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:72
+msgid "0 - autoplay is disabled"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:80
+msgid "Will be used as background for all slides"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:85
+msgid "Common Background Visibility"
+msgstr ""
+
+#: shortcodes/sliders/sliders.php:134
+msgid "Swiper Slider"
+msgstr ""
+
+#: shortcodes/social-icons/social-icons.php:18
+msgid "List with icons and text on right side"
+msgstr ""
+
+#: shortcodes/social-icons/social-icons.php:19
+msgid "Large icons inline list"
+msgstr ""
+
+#: shortcodes/social-icons/social-icons.php:20
+msgid "Small icons inline list"
+msgstr ""
+
+#: shortcodes/social-icons/social-icons.php:26
+msgid "Icon style"
+msgstr ""
+
+#: shortcodes/social-icons/social-icons.php:36
+msgid "Font Weight"
+msgstr ""
+
+#: shortcodes/social-icons/social-icons.php:39
+msgid "Normal"
+msgstr ""
+
+#: shortcodes/social-icons/social-icons.php:40
+msgid "Bold"
+msgstr ""
+
+#: shortcodes/social-icons/social-icons.php:46
+msgid "Font Size"
+msgstr ""
+
+#: shortcodes/social-icons/social-icons.php:56
+msgid "Item align"
+msgstr ""
+
+#: shortcodes/social-icons/social-icons.php:86
+msgid "Icon size"
+msgstr ""
+
+#: shortcodes/social-icons/social-icons.php:162
+#: shortcodes/social-icons/social-icons.php:163
+msgid "Social Icons"
+msgstr ""
+
+#: shortcodes/tariff/tariff.php:19
+msgid "Gradient Makeup"
+msgstr ""
+
+#: shortcodes/tariff/tariff.php:39
+msgid "To set yes prefix use {+}, to set no prefix use {-}"
+msgstr ""
+
+#: shortcodes/tariff/tariff.php:45
+msgid "Price"
+msgstr ""
+
+#: shortcodes/tariff/tariff.php:46
+msgid "Use brackets to set units as postfix (for ex: {{ /unit }} )"
+msgstr ""
+
+#: shortcodes/tariff/tariff.php:51
+msgid "Button Link"
+msgstr ""
+
+#: shortcodes/tariff/tariff.php:57
+msgid "Button Header"
+msgstr ""
+
+#: shortcodes/tariff/tariff.php:62
+msgid "Vip"
+msgstr ""
+
+#: shortcodes/tariff/tariff.php:63
+msgid "Will be marked"
+msgstr ""
+
+#: shortcodes/tariff/tariff.php:113
+msgid "Tariff"
+msgstr ""
+
+#: shortcodes/tariff/tariff.php:114
+msgid "Tariff Single Block"
+msgstr ""
+
+#: shortcodes/tariff/view.php:28
+msgid "BEST"
+msgstr ""
+
+#: shortcodes/testimonials/testimonials.php:39
+msgid "Name"
+msgstr ""
+
+#: shortcodes/testimonials/testimonials.php:49
+msgid "Photo"
+msgstr ""
+
+#: shortcodes/testimonials/testimonials.php:59
+msgid "Limit"
+msgstr ""
+
+#: shortcodes/testimonials/testimonials.php:99
+msgid "Autoplay"
+msgstr ""
+
+#: shortcodes/testimonials/testimonials.php:100
+msgid "Enter timeout in ms (0 - disabled)"
+msgstr ""
+
+#: shortcodes/testimonials/testimonials.php:146
+msgid "Testimonials Slider"
+msgstr ""
+
+#: shortcodes/testimonials/view.php:22
+msgid "prev"
+msgstr ""
+
+#: shortcodes/testimonials/view.php:23
+msgid "next"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:15
+msgid "Zoom Effect"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:20
+msgid "Zoom Out"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:21
+msgid "Fade Only"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:27
+msgid "Content Style"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:31
+msgid "Large "
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:32
+msgid "Extra Large"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:39
+msgid "Navigations arrows"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:50
+msgid "Arrow left"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:57
+msgid "Arrow right"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:65
+msgid "Navigations Bullets"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:69
+msgid "Bottom"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:76
+msgid "Content Color"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:86
+msgid "Content Align"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:97
+msgid "Overlay"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:100
+msgid "Black Overlay"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:101
+msgid "Gray Overlay"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:108
+msgid "Layer 1 Background Images"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:114
+msgid "Layer 2 Background Image"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:160
+msgid "Zoom Slider"
+msgstr ""
+
+#: shortcodes/zoom_slider/zoom_slider.php:161
+msgid "Background changing with Ken Burns effect"
+msgstr ""
